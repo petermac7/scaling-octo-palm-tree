@@ -1,0 +1,13 @@
+{
+  "name": "scaling-octo-palm-tree",
+  "version": "1.0.0",
+  "description": "Bestsoundbartobuy static blog",
+  "private": true,
+  "scripts": {
+    "lint": "htmlhint 'public/**/*.html'",
+    "test": "htmlhint 'public/**/*.html'"
+  },
+  "devDependencies": {
+    "htmlhint": "^1.1.4"
+  }
+}
